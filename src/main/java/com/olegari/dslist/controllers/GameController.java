@@ -2,7 +2,6 @@ package com.olegari.dslist.controllers;
 
 import com.olegari.dslist.dto.GameDTO;
 import com.olegari.dslist.dto.GameMinDTO;
-import com.olegari.dslist.entities.Game;
 import com.olegari.dslist.services.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
